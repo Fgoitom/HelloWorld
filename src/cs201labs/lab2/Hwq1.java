@@ -1,4 +1,4 @@
-package cs201labs;
+package cs201labs.lab2;
 
 import java.util.Scanner;
 
